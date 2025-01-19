@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\OS\\laba_4\\OS04_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C4EAA-B35A-4D51-8535-D056EF783146}|OS04_10\\OS04_10.csproj|d:\\univer\\os\\laba_4\\os04_04\\os04_10\\os04_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C4EAA-B35A-4D51-8535-D056EF783146}|OS04_10\\OS04_10.csproj|solutionrelative:os04_10\\os04_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F6F26-8F57-446A-974C-F7A2351D3E18}|OS04_09\\OS04_09.csproj|d:\\univer\\os\\laba_4\\os04_04\\os04_09\\os04_09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F6F26-8F57-446A-974C-F7A2351D3E18}|OS04_09\\OS04_09.csproj|solutionrelative:os04_09\\os04_09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63962D5-9412-4654-A343-755D72228FD4}|OS04_08\\OS04_08.csproj|d:\\univer\\os\\laba_4\\os04_04\\os04_08\\os04_08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63962D5-9412-4654-A343-755D72228FD4}|OS04_08\\OS04_08.csproj|solutionrelative:os04_08\\os04_08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5906B5FD-13E9-4726-89FA-A66B7C7466A4}|OS04_07\\OS04_07.csproj|d:\\univer\\os\\laba_4\\os04_04\\os04_07\\os04_07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5906B5FD-13E9-4726-89FA-A66B7C7466A4}|OS04_07\\OS04_07.csproj|solutionrelative:os04_07\\os04_07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149EA011-3841-4B49-8E0E-55BD11B96A14}|OS04_06\\OS04_06.csproj|d:\\univer\\os\\laba_4\\os04_04\\os04_06\\os04_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149EA011-3841-4B49-8E0E-55BD11B96A14}|OS04_06\\OS04_06.csproj|solutionrelative:os04_06\\os04_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DE06AD-F28B-4A5C-86DA-B360D9E83095}|OS04_05\\OS04_05.csproj|d:\\univer\\os\\laba_4\\os04_04\\os04_05\\os04_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DE06AD-F28B-4A5C-86DA-B360D9E83095}|OS04_05\\OS04_05.csproj|solutionrelative:os04_05\\os04_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E8B5E3-F8C7-44D9-A642-74BA2481AABA}|OS04_04\\OS04_04.csproj|d:\\univer\\os\\laba_4\\os04_04\\os04_04\\os04_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E8B5E3-F8C7-44D9-A642-74BA2481AABA}|OS04_04\\OS04_04.csproj|solutionrelative:os04_04\\os04_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OS04_04.cs",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_04\\OS04_04.cs",
+              "RelativeDocumentMoniker": "OS04_04\\OS04_04.cs",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_04\\OS04_04.cs",
+              "RelativeToolTip": "OS04_04\\OS04_04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:19:38.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OS04_05.cs",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_05\\OS04_05.cs",
+              "RelativeDocumentMoniker": "OS04_05\\OS04_05.cs",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_05\\OS04_05.cs",
+              "RelativeToolTip": "OS04_05\\OS04_05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:19:41.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OS04_06.cs",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_06\\OS04_06.cs",
+              "RelativeDocumentMoniker": "OS04_06\\OS04_06.cs",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_06\\OS04_06.cs",
+              "RelativeToolTip": "OS04_06\\OS04_06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:19:43.76Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OS04_07.cs",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_07\\OS04_07.cs",
+              "RelativeDocumentMoniker": "OS04_07\\OS04_07.cs",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_07\\OS04_07.cs",
+              "RelativeToolTip": "OS04_07\\OS04_07.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:19:46.335Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OS04_08.cs",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_08\\OS04_08.cs",
+              "RelativeDocumentMoniker": "OS04_08\\OS04_08.cs",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_08\\OS04_08.cs",
+              "RelativeToolTip": "OS04_08\\OS04_08.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:19:48.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OS04_09.cs",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_09\\OS04_09.cs",
+              "RelativeDocumentMoniker": "OS04_09\\OS04_09.cs",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_09\\OS04_09.cs",
+              "RelativeToolTip": "OS04_09\\OS04_09.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:19:50.919Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS04_10.cs",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_10\\OS04_10.cs",
+              "RelativeDocumentMoniker": "OS04_10\\OS04_10.cs",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\OS04_04\\OS04_10\\OS04_10.cs",
+              "RelativeToolTip": "OS04_10\\OS04_10.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:19:53.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

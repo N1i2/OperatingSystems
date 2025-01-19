@@ -1,0 +1,14 @@
+﻿  OS07_03B.cpp
+D:\Univer\OS\laba_7\win\OS07\OS07_03B\OS07_03B.cpp(22,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type '_Rep'
+D:\Univer\OS\laba_7\win\OS07\OS07_03B\OS07_03B.cpp(22,16): warning C4477:         with
+D:\Univer\OS\laba_7\win\OS07\OS07_03B\OS07_03B.cpp(22,16): warning C4477:         [
+D:\Univer\OS\laba_7\win\OS07\OS07_03B\OS07_03B.cpp(22,16): warning C4477:             _Rep=__int64
+D:\Univer\OS\laba_7\win\OS07\OS07_03B\OS07_03B.cpp(22,16): warning C4477:         ]
+      D:\Univer\OS\laba_7\win\OS07\OS07_03B\OS07_03B.cpp(22,16):
+      consider using '%lld' in the format string
+      D:\Univer\OS\laba_7\win\OS07\OS07_03B\OS07_03B.cpp(22,16):
+      consider using '%Id' in the format string
+      D:\Univer\OS\laba_7\win\OS07\OS07_03B\OS07_03B.cpp(22,16):
+      consider using '%I64d' in the format string
+  
+  OS07_03B.vcxproj -> D:\Univer\OS\laba_7\win\OS07\x64\Debug\OS07_03B.exe

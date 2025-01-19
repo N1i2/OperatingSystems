@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\OS\\laba_8\\win\\OS08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{300BE74E-462A-4C91-8758-F4D03AFF5A11}|OS08_02\\OS08_02.csproj|d:\\univer\\os\\laba_8\\win\\os08\\os08_02\\os08_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BE74E-462A-4C91-8758-F4D03AFF5A11}|OS08_02\\OS08_02.csproj|solutionrelative:os08_02\\os08_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS08_02.cs",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_8\\win\\OS08\\OS08_02\\OS08_02.cs",
+              "RelativeDocumentMoniker": "OS08_02\\OS08_02.cs",
+              "ToolTip": "D:\\Univer\\OS\\laba_8\\win\\OS08\\OS08_02\\OS08_02.cs",
+              "RelativeToolTip": "OS08_02\\OS08_02.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:18:36.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

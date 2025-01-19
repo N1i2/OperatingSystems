@@ -1,0 +1,7 @@
+D:\Univer\OS\laba_8\win\OS08\OS08_02\bin\Debug\OS08_02.exe.config
+D:\Univer\OS\laba_8\win\OS08\OS08_02\bin\Debug\OS08_02.exe
+D:\Univer\OS\laba_8\win\OS08\OS08_02\bin\Debug\OS08_02.pdb
+D:\Univer\OS\laba_8\win\OS08\OS08_02\obj\Debug\OS08_02.csproj.AssemblyReference.cache
+D:\Univer\OS\laba_8\win\OS08\OS08_02\obj\Debug\OS08_02.csproj.CoreCompileInputs.cache
+D:\Univer\OS\laba_8\win\OS08\OS08_02\obj\Debug\OS08_02.exe
+D:\Univer\OS\laba_8\win\OS08\OS08_02\obj\Debug\OS08_02.pdb

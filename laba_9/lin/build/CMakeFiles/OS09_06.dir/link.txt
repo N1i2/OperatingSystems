@@ -1,0 +1,1 @@
+/usr/bin/clang CMakeFiles/OS09_06.dir/src/OS09_06.c.o -o OS09_06 

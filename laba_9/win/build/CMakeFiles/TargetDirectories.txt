@@ -1,0 +1,6 @@
+D:/Univer/OS/laba_9/win/build/CMakeFiles/OS09_01.dir
+D:/Univer/OS/laba_9/win/build/CMakeFiles/OS09_02.dir
+D:/Univer/OS/laba_9/win/build/CMakeFiles/OS09_03.dir
+D:/Univer/OS/laba_9/win/build/CMakeFiles/OS09_04.dir
+D:/Univer/OS/laba_9/win/build/CMakeFiles/edit_cache.dir
+D:/Univer/OS/laba_9/win/build/CMakeFiles/rebuild_cache.dir

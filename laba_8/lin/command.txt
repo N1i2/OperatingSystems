@@ -1,0 +1,5 @@
+cat /proc/<pid>/maps
+
+pmap <pid>
+
+objdump -h OS08_03

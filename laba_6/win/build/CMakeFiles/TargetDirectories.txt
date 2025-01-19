@@ -1,0 +1,13 @@
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_61.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_62.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_63.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_63A.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_63B.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_64.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_64A.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_64B.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_65.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_65A.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/lab_65B.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/edit_cache.dir
+D:/Univer/OS/laba_6/win/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\OS\\laba_4\\laba_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E26A34C6-2915-4823-96FA-CF1DCECB0943}|OS04_02\\OS04_02.vcxproj|D:\\Univer\\OS\\laba_4\\laba_4\\OS04_02\\OS04_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E26A34C6-2915-4823-96FA-CF1DCECB0943}|OS04_02\\OS04_02.vcxproj|solutionrelative:OS04_02\\OS04_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85E7C08-A17A-47FD-972E-53CACBC50995}|OS04_01\\OS04_01.vcxproj|D:\\Univer\\OS\\laba_4\\laba_4\\OS04_01\\OS04_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E85E7C08-A17A-47FD-972E-53CACBC50995}|OS04_01\\OS04_01.vcxproj|solutionrelative:OS04_01\\OS04_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667E95C6-FFAC-4BE3-92FB-68D4A424F4AE}|OS04_03\\OS04_03.vcxproj|D:\\Univer\\OS\\laba_4\\laba_4\\OS04_03\\OS04_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{667E95C6-FFAC-4BE3-92FB-68D4A424F4AE}|OS04_03\\OS04_03.vcxproj|solutionrelative:OS04_03\\OS04_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OS04_01.cpp",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\laba_4\\OS04_01\\OS04_01.cpp",
+              "RelativeDocumentMoniker": "OS04_01\\OS04_01.cpp",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\laba_4\\OS04_01\\OS04_01.cpp",
+              "RelativeToolTip": "OS04_01\\OS04_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T06:40:27.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS04_02.cpp",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\laba_4\\OS04_02\\OS04_02.cpp",
+              "RelativeDocumentMoniker": "OS04_02\\OS04_02.cpp",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\laba_4\\OS04_02\\OS04_02.cpp",
+              "RelativeToolTip": "OS04_02\\OS04_02.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T07:05:18.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OS04_03.cpp",
+              "DocumentMoniker": "D:\\Univer\\OS\\laba_4\\laba_4\\OS04_03\\OS04_03.cpp",
+              "RelativeDocumentMoniker": "OS04_03\\OS04_03.cpp",
+              "ToolTip": "D:\\Univer\\OS\\laba_4\\laba_4\\OS04_03\\OS04_03.cpp",
+              "RelativeToolTip": "OS04_03\\OS04_03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T07:15:19.172Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

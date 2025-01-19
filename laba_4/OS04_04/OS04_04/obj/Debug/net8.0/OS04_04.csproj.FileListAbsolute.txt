@@ -1,0 +1,14 @@
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\OS04_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\OS04_04.AssemblyInfoInputs.cache
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\OS04_04.AssemblyInfo.cs
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\OS04_04.csproj.CoreCompileInputs.cache
+D:\Univer\OS\laba_4\OS04_04\OS04_04\bin\Debug\net8.0\OS04_04.exe
+D:\Univer\OS\laba_4\OS04_04\OS04_04\bin\Debug\net8.0\OS04_04.deps.json
+D:\Univer\OS\laba_4\OS04_04\OS04_04\bin\Debug\net8.0\OS04_04.runtimeconfig.json
+D:\Univer\OS\laba_4\OS04_04\OS04_04\bin\Debug\net8.0\OS04_04.dll
+D:\Univer\OS\laba_4\OS04_04\OS04_04\bin\Debug\net8.0\OS04_04.pdb
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\OS04_04.dll
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\refint\OS04_04.dll
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\OS04_04.pdb
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\OS04_04.genruntimeconfig.cache
+D:\Univer\OS\laba_4\OS04_04\OS04_04\obj\Debug\net8.0\ref\OS04_04.dll

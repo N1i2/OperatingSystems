@@ -1,0 +1,5 @@
+/media/niikola/Nikoals/Univer/OS/laba_9/lin/build/CMakeFiles/OS09_06.dir
+/media/niikola/Nikoals/Univer/OS/laba_9/lin/build/CMakeFiles/OS09_05.dir
+/media/niikola/Nikoals/Univer/OS/laba_9/lin/build/CMakeFiles/OS09_07.dir
+/media/niikola/Nikoals/Univer/OS/laba_9/lin/build/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/OS/laba_9/lin/build/CMakeFiles/rebuild_cache.dir

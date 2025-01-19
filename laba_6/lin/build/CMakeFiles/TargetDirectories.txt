@@ -1,0 +1,5 @@
+/media/niikola/Nikoals/Univer/OS/laba_6/lin/build/CMakeFiles/lab_66.dir
+/media/niikola/Nikoals/Univer/OS/laba_6/lin/build/CMakeFiles/lab_66A.dir
+/media/niikola/Nikoals/Univer/OS/laba_6/lin/build/CMakeFiles/lab_66B.dir
+/media/niikola/Nikoals/Univer/OS/laba_6/lin/build/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/OS/laba_6/lin/build/CMakeFiles/rebuild_cache.dir
